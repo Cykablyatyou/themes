@@ -497,6 +497,9 @@
 
 .userPopout-2j1gM4 .wrapper-1VLyxH::after {
   z-index: unset;
+[role="list"] > div {
+  background-color:transparent;
+} 
 }
 
 /*
